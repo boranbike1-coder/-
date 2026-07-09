@@ -1,0 +1,6 @@
+{
+  "name": "Face Recognition Login and Google Sheets Sync System",
+  "description": "ระบบลงชื่อเข้าใช้งานด้วยใบหน้าสำหรับอาจารย์และนักเรียน พร้อมระบบซิงก์ข้อมูลจาก Google Sheets และจัดการข้อมูลนักเรียน",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
